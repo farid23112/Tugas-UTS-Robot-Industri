@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<?xml-model href="http://download.ros.org/schema/package_format3.xsd" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<package format="3">
+  <name>robin_uts</name>
+  <version>0.1.0</version>
+  <description>Node ROS 2 penggerak robot Robin untuk UTS (track kanan) menggunakan odometri roda.</description>
+  <maintainer email="email@kamu.com">NAMA_KAMU</maintainer>
+  <license>MIT</license>
+
+  <depend>rclpy</depend>
+  <depend>geometry_msgs</depend>
+  <depend>std_msgs</depend>
+
+  <export>
+    <build_type>ament_python</build_type>
+  </export>
+</package>
