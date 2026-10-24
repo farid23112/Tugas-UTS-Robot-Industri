@@ -57,13 +57,6 @@ Saat robot sampai di kotak finish, terminal menampilkan:
 FINISH! Waktu tempuh: XX.XX detik (waktu simulasi)
 ```
 
-## Hasil
-| Percobaan | Waktu tempuh (detik) |
-|---|---|
-| 1 | - |
-| 2 | - |
-| 3 | - |
-
 ## Penyetelan parameter
 Semua parameter ada di bagian atas `robin_uts/uts_node.py`.
 
