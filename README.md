@@ -1,4 +1,4 @@
-# robin_uts
+# Tugas UTS Robot Industri
 
 Node ROS 2 (Python) untuk menggerakkan robot **Robin** melewati **track kanan** pada simulasi Gazebo, sampai kotak finish, sekaligus mencatat waktu tempuh. Dibuat untuk UTS Robotika.
 
